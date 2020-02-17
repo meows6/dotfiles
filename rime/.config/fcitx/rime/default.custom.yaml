@@ -1,6 +1,0 @@
-#default.custom.yaml
-#以[]翻页
-patch:
-  "key_binder/bindings":
-    - { when: paging, accept: bracketleft, send: Page_Up }
-    - { when: has_menu, accept: bracketright, send: Page_Down }
