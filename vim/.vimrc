@@ -1,0 +1,12 @@
+syntax on
+set showmatch
+set showcmd
+set ignorecase
+set incsearch
+set autoindent
+set hlsearch
+set expandtab
+set autoindent
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
